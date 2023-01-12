@@ -3,5 +3,5 @@ This files containes the codes that are used to generate the proximity and co-ex
 
 "proximity.py" file contains the codes to generate proximity features.
 "co-expression-multimodal-model.py" contains the codes to generate co-expression features and gene pairs prediction scores.
-"multimodal-deep-learning-keras.py" contains the codes to design the multimodal deep learning model.
+"multimodal_deep_learning-keras.py" contains the codes to design the multimodal deep learning model.
 
